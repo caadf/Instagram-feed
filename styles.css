@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+}
+
+header{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+    display: block;
+}
+
+.post{
+    display: flex;
+    background-color: White;
+}
+h2{
+    width: 500px;
+}
+span{
+    width: 100px;
+    padding-top: 30px;
+    color: lightgrey;
+    text-align: right;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+.photo{
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    margin-bottom: 60px;
+}
+.comment{
+    background-color: white;
+    margin:0;
+}
